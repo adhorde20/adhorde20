@@ -3,7 +3,7 @@
 
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
 
-<img align="right" alt="coding" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif"><br><br><br>
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/0*wLIZOPzk0uC9WjlD.gif"><br><br><br>
 
 <p align="centre"> 
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 <b> Data Pipelines, Big Data Tools & Cloud </b>  

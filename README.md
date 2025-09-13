@@ -18,7 +18,7 @@
 <br> 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishwarya-dhorde)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishwarya-dhorde-309a70240?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRVPyCogAQoG917gtG1zang%3D%3D)
 
 # 💻 Tech Stack:
 
